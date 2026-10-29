@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there, I'm Max!
 
 <!--
 **maxcheng08/maxcheng08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
